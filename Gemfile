@@ -26,6 +26,10 @@ gem "jbuilder"
 
 # gem "tzinfo-data", platforms: %i[ mingw mswin x64_mingw jruby ]
 gem 'tzinfo-data', '~> 1.2022', '>= 1.2022.1'
+gem 'bootstrap', '~> 5.1', '>= 5.1.3'
+
+
+
 gem "bootsnap", require: false
 
 
